@@ -116,7 +116,7 @@ public class SheriaECardsProgram implements UserClass
     System.out.println("\n1st ===> setup Mail Server Properties..");
     
     String sourceEmail = "sheria.edms@sheriasacco.coop";
-    String password = "SheriRec@2099";
+    String password = "password";
     
     String MembersName = MemberName;
     
